@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamloouis
 - 👀 I’m interested in Wed Development/Frontend Design
-- 🌱 I’m currently learning API's
-- 💞️ I’m looking to collaborate on Web related projects
+- 🌱 I’m Designer learning to turn my designs into code.
 - 📫 How to reach me iamlooouis@gmail.com
 - 😄 Pronouns: He/Him
 
