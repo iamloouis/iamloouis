@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamloouis
-- 🌱 Designer learning to turn my designs into code.
+- 🌱 Designer learning how to turn my designs into code.
 - 📫 How to reach me iamlooouis@gmail.com
 - 😄 Pronouns: He/Him
 
